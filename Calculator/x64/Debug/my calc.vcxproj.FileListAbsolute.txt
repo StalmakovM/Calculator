@@ -1,2 +1,3 @@
 C:\Users\Максим\source\repos\my calc\x64\Debug\my calc.exe
 C:\Users\Максим\OneDrive\Рабочий стол\Calculator\x64\Debug\my calc.exe
+C:\Users\Максим\source\repos\StalmakovM\Calculator\Calculator\x64\Debug\my calc.exe

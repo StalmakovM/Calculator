@@ -1,2 +1,5 @@
-﻿  Source.cpp
-  my calc.vcxproj -> C:\Users\Максим\OneDrive\Рабочий стол\Calculator\x64\Debug\my calc.exe
+﻿  Calc.cpp
+  Source.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Максим\Source\Repos\StalmakovM\Calculator\Calculator\x64\Debug\my calc.exe при последней инкрементной компоновке; выполняется полная компоновка
+  my calc.vcxproj -> C:\Users\Максим\Source\Repos\StalmakovM\Calculator\Calculator\x64\Debug\my calc.exe
